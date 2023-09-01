@@ -1,0 +1,23 @@
+html{
+    /*
+    background-color:black;
+    color:aliceblue;
+    */
+    background-color:azure;
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+}
+#chart_div{
+    position:relative;
+    padding: 0% 25% 0% 25%;
+    width:50%;
+    height:50%;
+}
+footer {
+    background-color: #585858;
+    position: relative;
+
+    width: 100%;
+    color: #edf6f9;
+    /*height: 2.5rem;            /* Footer height */
+  }
